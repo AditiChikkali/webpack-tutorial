@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwebpack_yt=self.webpackChunkwebpack_yt||[]).push([["TestComponentChunk"],{72:(e,t,n)=>{n.r(t),n.d(t,{default:()=>c});const c=function(){return React.createElement("div",null,"Test component")}}}]);
+//# sourceMappingURL=TestComponentChunk.9326e5f889028981d891.bundle.js.map
